@@ -14,10 +14,12 @@ A full-stack developer who started coding in 2023. I'm a passionate web develope
 ## 🛠️ Tech Stack
 
 <h4>Main Tech Stack</h4>
-<img src=""/>
+
+[![Main Tech Stack](https://skillicons.dev/icons?i=cpp,py,bash,js,html,css,tailwind,npm,nodejs,react,express,postgres,postman,vite,sass&perline=7)](https://skillicons.dev)
 
 <h4>All Technologies I use</h4>
-<img src=""/>
+
+[![Other Tech I use](https://skillicons.dev/icons?i=vscode,git,matlab,linux,anaconda,arduino,d3,threejs,md,latex,blender,bootstrap,less,obsidian&perline=7)](https://skillicons.dev)
 
 ## 📫 Let's Connect!
 
@@ -29,9 +31,9 @@ A full-stack developer who started coding in 2023. I'm a passionate web develope
 
 ## 🎨🎮🎼📖 Hobbies!
 
-- I'm into Art [](https://www.artstation.com/deep0ctave)
-- I read Books [](https://www.goodreads.com/user/show/173200641-deep0ctave)
-- I love Chess [](https://lichess.org/@/avinashald)
+- [I'm into Art](https://www.artstation.com/deep0ctave)
+- [I read Books](https://www.goodreads.com/user/show/173200641-deep0ctave)
+- [I love Chess](https://lichess.org/@/avinashald)
 
 Let's collaborate on exciting projects! Feel free to explore my repositories and reach out. Happy coding! 😄
 
