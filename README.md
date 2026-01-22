@@ -9,7 +9,7 @@ A full-stack developer who started coding in 2023. I'm a passionate web develope
 - ⚡ Fun fact: [An interesting fact about yourself] -->
 
 ## 👨‍💻 Portfolio
-🔗 [Portfolio Link](https://deep0ctave.github.io/portfolio_v2/)
+🔗 [Portfolio Link](https://avinashaldhapati.com/)
 
 ## 🛠️ Tech Stack
 
