@@ -15,7 +15,7 @@ A full-stack developer who started coding in 2023. I'm a passionate web develope
 
 <h4>Main Tech Stack</h4>
 
-[![Main Tech Stack](https://skillicons.dev/icons?i=cpp,py,bash,js,html,css,tailwind,npm,nodejs,react,express,postgres,postman,vite,sass&perline=7)](https://skillicons.dev)
+[![Main Tech Stack](https://skillicons.dev/icons?i=cpp,py,bash,js,html,css,tailwind,npm,nodejs,react,express,postgres,postman,vite,sass,terraform,aws&perline=7)](https://skillicons.dev)
 
 <h4>All Technologies I use</h4>
 
