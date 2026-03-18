@@ -36,6 +36,3 @@ A full-stack developer who started coding in 2023. I'm a passionate web develope
 - [I love Chess](https://lichess.org/@/avinashald)
 
 Let's collaborate on exciting projects! Feel free to explore my repositories and reach out. Happy coding! 😄
-
-
-[![](https://skillicons.dev/icons?i=docker,githubactions)](https://skillicons.dev)
